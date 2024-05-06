@@ -119,3 +119,6 @@ Ouvir o podcast atribuído para você ou sua equipe e elaborar uma pequena apres
 
 **PodCast 9** 🎙️ Alunos: Nicholas Andrey & Mateus Koch | Pedro Godri & Yasmin Alves
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP9---Gabriel-Amncio---Unifique-e1r3p7s>  
+
+**PodCast 10** 🎙️ Alunos: Nathan Ferreira Cezar & Gustavo Felipe de Andrade |
+<https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T2E2---Rodrigo-Hlsenbeck----Premiersoft-e2d4378/a-aanoujd>
